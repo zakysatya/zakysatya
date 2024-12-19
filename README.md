@@ -1,45 +1,43 @@
 ![bg](https://path/to/your/background/gif)  
-<h1> Hello, I'm [Your Name] 👋</h1>  
+<h1> Hello, I'm Zaky Satya G. 👋</h1>  
 
-<p>Passionate [Your Primary Field] with expertise in [Key Technologies]. A dedicated developer focused on creating innovative and efficient solutions. Currently studying [Your University] in [Your Major], specializing in [Your Specialization]. Committed to continuous learning and technological advancement.</p>  
+## 🎓 About Me  
+A Computer Science student, specializing in mobile and web development. My programming journey focuses on Kotlin, Dart, and JavaScript, creating innovative and efficient software solutions.  
 
-## 🚀 Tech Stack  
+## 🚀 Technology Stack  
 
-### Languages  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+### Programming Languages  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### Frameworks & Tools  
+### Frameworks & Technologies  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
-### IDEs  
+### Development Tools  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+## 🎯 Core Competencies  
+- 🚀 Cross-Platform Development  
+- 📱 Mobile Application Engineering  
+- 💻 Web Development  
+- 🔧 Problem Solving  
 
-## 🏆 Achievements  
-- [List your key achievements, projects, or certifications]  
+## 🌱 Current Learning Path  
+- Advanced Flutter Techniques  
+- React.js Development  
+- Modern JavaScript Frameworks  
+- Mobile App Performance Optimization  
 
-## 🌱 Currently Learning  
-- [Technology/Skill 1]  
-- [Technology/Skill 2]  
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakysatyag/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaky.gumilang@binus.ac.id)  
 
-## 🔥 Recent Projects  
-1. [Project Name 1](https://github.com/link)  
-2. [Project Name 2](https://github.com/link)  
-3. [Project Name 3](https://github.com/link)  
-
-## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+## 🌐 Portfolio  
+![Portofolio](https://zssite.vercel.app)  
