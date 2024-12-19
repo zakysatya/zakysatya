@@ -1,4 +1,4 @@
-![bg](https://github.com/zakysatya/zakysatya/blob/main/background.png)
+![bg](https://github.com/zakysatya/zakysatya/blob/main/background.jpg)
 <h1> Hello, I'm Zaky Satya G. 👋</h1>  
 
 ## 🎓 About Me  
